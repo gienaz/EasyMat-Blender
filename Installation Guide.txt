@@ -1,0 +1,9 @@
+ADDON WAS TESTED ON VERSION 4.0.1
+
+In Blender, in the top context menu, go to Edit -> Preferences -> Addons
+
+Click on Install at the top, navigate to the EasyMat.py file, and enable it in the addons menu
+
+The addon will be located in the viewport, in the N menu, under the tab EasyMat
+
+developer - https://github.com/gienaz
